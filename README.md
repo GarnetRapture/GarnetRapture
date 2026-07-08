@@ -20,7 +20,6 @@
   </p>
 
   <p>
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=koiya&show_icons=true&theme=radical&cache_seconds=86400&hide_border=true&hide_title=true&hide_rank=true" height="130" alt="Stats"/>
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=koiya&layout=compact&theme=radical&langs_count=5&cache_seconds=86400&hide_border=true&hide_title=true" height="130" alt="Langs"/>
+    <img src="assets/top-langs.svg" height="140" alt="Langs"/>
   </p>
 </div>
