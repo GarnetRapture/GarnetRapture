@@ -4,7 +4,9 @@
   <h3 style="margin:0;">✨ Garnet Rapture Developer ✨</h3>
 
   <p>
-    <video src="https://github.com/GarnetRapture/GarnetRapture/raw/main/assets/lobbyc7.mp4" controls autoplay loop height="45"></video><br/>
+    <a href="https://github.com/GarnetRapture/GarnetRapture/raw/main/assets/lobbyc7.mp4">
+      <img src="https://img.shields.io/badge/▶️%20Play%20BGM-1E1E2E?style=for-the-badge&logo=applemusic&logoColor=white" alt="Play BGM"/>
+    </a>
     <img src="https://img.shields.io/badge/Korean-4169E1?style=for-the-badge" alt="Korean"/>
     <img src="https://img.shields.io/badge/Backend%20%7C%20Frontend-FF8C00?style=for-the-badge" alt="Focus"/>
   </p>
