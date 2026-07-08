@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/GarnetRapture_2048.png" width="600" alt="Banner" style="border-radius:15px; margin-bottom:10px;"/>
+  <img src="assets/GarnetRapture_2048.png" width="300" alt="Banner" style="border-radius:15px; margin-bottom:10px;"/>
   
   <h3 style="margin:0;">✨ Garnet Rapture Developer ✨</h3>
 
