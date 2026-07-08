@@ -1,78 +1,53 @@
 <div align="center">
-  <img src="assets/GarnetRapture_2048.png" width="100%" alt="Garnet Rapture Banner"/>
+  <img src="assets/GarnetRapture_2048.png" width="800" alt="Garnet Rapture Banner" style="border-radius:15px;"/>
   
-  <h1>✨ Welcome to My GitHub Profile ✨</h1>
-  <p>🔥 Passionate Developer & Garnet Rapture Creator 🔥</p>
-
-  <!-- BGM Player -->
-  <audio src="assets/lobbyc7.ogg" controls autoplay loop></audio>
+  <h2 style="border-bottom: none; margin-bottom: 5px;">✨ Garnet Rapture Developer ✨</h2>
 
   <p>
-    <img src="https://img.shields.io/badge/Language-Korean-blue" alt="Korean"/>
-    <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Frontend-orange" alt="Focus"/>
+    <a href="assets/lobbyc7.ogg" target="_blank"><img src="https://img.shields.io/badge/🎵%20Play_Lobby_BGM-1E1E2E?style=for-the-badge&logo=applemusic&logoColor=white" alt="BGM"/></a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Language-Korean-4169E1?style=for-the-badge" alt="Korean"/>
+    <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Frontend-FF8C00?style=for-the-badge" alt="Focus"/>
   </p>
 </div>
 
 ---
 
-## 🎭 About Me
+### 🎭 About Me
+- 🔭 **Project:** Garnet Rapture
+- 🌱 **Learning:** 끊임없이 새로운 기술과 모던 UI 디자인 탐구
+- ⚡ **Interests:** 고품질 일러스트, 컴팩트한 프로필 컴포넌트
 
-- 🔭 현재 진행 중인 프로젝트: **Garnet Rapture**
-- 🌱 끊임없이 새로운 기술과 디자인을 탐구하고 있습니다.
-- ⚡ 주요 관심사: 고품질 일러스트, UI 컴포넌트, 그리고 멋진 프로필 페이지 꾸미기!
-
-## 🎨 Garnet Rapture Collection
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="assets/GarnetRapture_Costume01_512.png" width="250px" alt="Costume 01"/><br/>
-        <b>Costume 01</b>
-      </td>
-      <td align="center">
-        <img src="assets/GarnetRapture_Costume02_512.png" width="250px" alt="Costume 02"/><br/>
-        <b>Costume 02</b>
-      </td>
-      <td align="center">
-        <img src="assets/GarnetRapture_512.png" width="250px" alt="Default"/><br/>
-        <b>Default</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📸 Memory & Evertalk
+### 🎨 Asset Gallery
 
 <div align="center">
-  <img src="assets/Memory_GarnetRapture.png" width="45%" style="margin-right:10px" alt="Memory"/>
-  <img src="assets/Evertalk_GarnetRapture_01.png" width="45%" alt="Evertalk"/>
-</div>
-
-## 🛍️ Items
-
-<div align="center">
-  <img src="assets/cashshopimg_GarnetRapture_1.png" width="200px" alt="Cash Shop 1"/>
-  <img src="assets/cashshopimg_GarnetRapture_2.png" width="200px" alt="Cash Shop 2"/>
+  <b>[ Characters ]</b><br/>
+  <img src="assets/GarnetRapture_Costume01_512.png" height="130" style="margin:5px;" alt="Costume 1"/>
+  <img src="assets/GarnetRapture_Costume02_512.png" height="130" style="margin:5px;" alt="Costume 2"/>
+  <img src="assets/GarnetRapture_512.png" height="130" style="margin:5px;" alt="Default"/>
+  <br/><br/>
+  <b>[ Events & Items ]</b><br/>
+  <img src="assets/Memory_GarnetRapture.png" height="100" style="margin:5px;" alt="Memory"/>
+  <img src="assets/Evertalk_GarnetRapture_01.png" height="100" style="margin:5px;" alt="Evertalk"/>
+  <img src="assets/cashshopimg_GarnetRapture_1.png" height="80" style="margin:5px;" alt="Shop 1"/>
+  <img src="assets/cashshopimg_GarnetRapture_2.png" height="80" style="margin:5px;" alt="Shop 2"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=koiya&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=koiya&theme=radical&column=7&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophy" />
 </div>
-
 <br/>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koiya&show_icons=true&theme=radical" alt="GitHub Stats" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koiya&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="195px"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=koiya&show_icons=true&theme=radical&cache_seconds=86400&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=koiya&layout=compact&theme=radical&langs_count=6&cache_seconds=86400&hide_border=true" alt="Top Languages" height="165"/>
 </div>
-
 <br/>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koiya&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=koiya&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
