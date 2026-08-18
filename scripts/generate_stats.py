@@ -1,8 +1,9 @@
+import json
 import os
 import sys
-import json
 import urllib.request
 from urllib.error import URLError
+from xml.sax.saxutils import escape
 
 TOKEN = os.environ.get("GITHUB_TOKEN")
 if not TOKEN:
@@ -51,8 +52,8 @@ for repo in repos:
             langs[name] = {"size": 0, "color": color}
         langs[name]["size"] += size
 
+total_size = sum(x["size"] for x in langs.values())
 sorted_langs = sorted(langs.items(), key=lambda x: x[1]["size"], reverse=True)[:5]
-total_size = sum(x[1]["size"] for x in sorted_langs)
 
 svg_width = 300
 svg_height = 140
@@ -66,7 +67,7 @@ for lang_name, lang_data in sorted_langs:
     percent = (lang_data["size"] / total_size) * 100 if total_size > 0 else 0
     color = lang_data["color"]
     svg += f'<circle cx="20" cy="{y_pos-4}" r="5" fill="{color}"/>'
-    svg += f'<text x="35" y="{y_pos}" class="lang-name">{lang_name}</text>'
+    svg += f'<text x="35" y="{y_pos}" class="lang-name">{escape(lang_name)}</text>'
     svg += f'<text x="125" y="{y_pos}" class="lang-percent">{percent:.1f}%</text>'
     
     bar_width = 110
